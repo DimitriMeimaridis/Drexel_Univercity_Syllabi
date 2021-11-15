@@ -4,7 +4,7 @@
 
 
 ## Tree Organization
-#### The syllabi are organized by term/year => course => professor name => revisions (if applicable).
+#### The syllabi are organized by term/year => course => professor name => revisions (if applicable). If there is a single syllabi used across all classes/sections of a course, then the professor's name is left out and the files are places directly into the course folder.
 - 2021/2022 Fall
   - MATH 101
     - Professor_Last_Name, Professor_First_Name
