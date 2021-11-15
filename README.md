@@ -1,4 +1,4 @@
-# Drexel_University_Syllabi
+# Drexel University Syllabi Library
 ### This is a ***community-compiled*** list of current and past syllabi at Drexel University in Philadelphia. The goal of this project is to allow student to get a more in-depth look into a course then would be provided by standard means.
 
 
