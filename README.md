@@ -7,7 +7,7 @@ The syllabi are organized by term/year => course => proffessor name => revisions
 
 
 ## Tree Organization
-- 2020/2021 Winter
+- 2021/2022 Fall
   - MATH 101
     - Professor
       - Rev 1
@@ -15,10 +15,14 @@ The syllabi are organized by term/year => course => proffessor name => revisions
     - Professor
       - Rev 1
       - Rev 2
+  <!---
   - ENGL 231
     - Professor
       - Rev 1
+  --->
 
 ## File Naming
-    YEAR_TERM_COURSE_PROFESSOR_REV#
-
+#### There is a mix of PDFs and Word Doc/Docx
+    YEAR_TERM_COURSE_PROFESSOR_Rev##.pdf
+    YEAR_TERM_COURSE_PROFESSOR_Rev##.doc
+    YEAR_TERM_COURSE_PROFESSOR_Rev##.docx
