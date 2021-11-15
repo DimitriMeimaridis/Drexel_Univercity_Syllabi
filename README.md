@@ -1,18 +1,16 @@
 # Drexel_University_Syllabi
 ### This is a ***community-compiled*** list of current and past syllabi at Drexel University in Philadelphia. The goal of this project is to allow student to get a more in-depth look into a course then would be provided by standard means.
 
-<!---
-The syllabi are organized by term/year => course => proffessor name => revisions (if applicable).
---->
 
 
 ## Tree Organization
+#### The syllabi are organized by term/year => course => professor name => revisions (if applicable).
 - 2021/2022 Fall
   - MATH 101
-    - Professor
+    - Professor_Last_Name, Professor_First_Name
       - Rev 1
   - ENGL 101
-    - Professor
+    - Professor_Last_Name, Professor_First_Name
       - Rev 1
       - Rev 2
   <!---
@@ -23,6 +21,6 @@ The syllabi are organized by term/year => course => proffessor name => revisions
 
 ## File Naming
 #### There is a mix of PDFs and Word Doc/Docx
-    Year-Year_Term_CourseAbbreviation_ProfessorLast_ProfessorFirst_Rev##.pdf
-    Year-Year_Term_CourseAbbreviation_ProfessorLast_ProfessorFirst_Rev##.doc
-    Year-Year_Term_CourseAbbreviation_ProfessorLast_ProfessorFirst_Rev##.docx
+    Year-Year_Term_CourseAbbreviation_CourseNumber_ProfessorLast_ProfessorFirst_Rev_##.pdf
+    Year-Year_Term_CourseAbbreviation_CourseNumber_ProfessorLast_ProfessorFirst_Rev_##.doc
+    Year-Year_Term_CourseAbbreviation_CourseNumber_ProfessorLast_ProfessorFirst_Rev_##.docx
