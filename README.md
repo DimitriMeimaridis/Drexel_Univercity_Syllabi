@@ -23,6 +23,6 @@ The syllabi are organized by term/year => course => proffessor name => revisions
 
 ## File Naming
 #### There is a mix of PDFs and Word Doc/Docx
-    YEAR_TERM_COURSE_PROFESSOR_Rev##.pdf
-    YEAR_TERM_COURSE_PROFESSOR_Rev##.doc
-    YEAR_TERM_COURSE_PROFESSOR_Rev##.docx
+    Year-Year_Term_CourseAbbreviation_ProfessorLast_ProfessorFirst_Rev##.pdf
+    Year-Year_Term_CourseAbbreviation_ProfessorLast_ProfessorFirst_Rev##.doc
+    Year-Year_Term_CourseAbbreviation_ProfessorLast_ProfessorFirst_Rev##.docx
